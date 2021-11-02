@@ -1,0 +1,1 @@
+  echo "SCORE: 1%"
